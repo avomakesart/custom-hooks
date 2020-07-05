@@ -1,6 +1,6 @@
 # useCounter Hook
 
-Ejemplo de uso:
+Test cases:
 ```
 const { counter, increment, decrement, reset } = useCounter(10)
 ```
